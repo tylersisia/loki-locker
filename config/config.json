@@ -1,8 +1,8 @@
 {
   "daemon-url" :
   {
-    "_comment" : "RPC urls to monero deamon",
-    "mainnet"  : "http://127.0.0.1:22023",
+    "_comment" : "RPC urls to chimera deamon",
+    "mainnet"  : "http://127.0.0.1:11246",
     "testnet"  : "http://127.0.0.1:38157",
     "stagenet" : "http://127.0.0.1:38154"
   },
